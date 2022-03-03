@@ -17,7 +17,7 @@
 
 ## Reference project
 
-- [github-api-bulk-transfer] (<https://github.com/jdbean/github-api-bulk-transfer>)
+- [github-api-bulk-transfer](<https://github.com/jdbean/github-api-bulk-transfer>)
 - [Github List All Repositories in Organization or Personal using REST API](<https://www.middlewareinventory.com/blog/github-list-all-repositories-using-rest-api/>)
 
 ## License
